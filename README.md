@@ -3,7 +3,7 @@
 ### Frontend Developer | React · Next.js · JavaScript · TypeScript
 📍 Ciudad de México, México  
 
-Soy Desarrolladora Frontend Junior enfocada en React, Next.js, TypeScript y TailwindCSS, con experiencia en bases de datos (PostgreSQL, MongoDB), integración de APIs REST y desarrollo de interfaces responsivas, funcionales, intuitivas y centradas en el usuario. 
+Soy Desarrolladora Frontend Junior enfocada en React, Next.js, TypeScript y TailwindCSS, con experiencia en bases de datos (PostgreSQL, MongoDB), integración de APIs REST y desarrollo de interfaces responsivas, funcionales, intuitivas y centradas en la experiencia del usuario. 
 
 ---
 
