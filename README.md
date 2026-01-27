@@ -22,7 +22,7 @@ Soy Desarrolladora Frontend Junior enfocada en React, Next.js, TypeScript y Tail
 Plataforma para venta de tickets de conciertos, festivales y eventos deportivos.
 - Rol: **Frontend Developer**  
 - Funcionalidades: Creación de formularios de login/registro, carrito de compras y pasarela de pagos, despliegue de la aplicación con Vercel. 
-🔗 [Repositorio Frontend](https://github.com/Daiana-L/studioconnect_front)
+🔗 [Repositorio Frontend](https://github.com/day2555/ticketlive_front)
 🔗 [Repositorio Backend](https://github.com/Daiana-L/studioconnect_front)
 
 ---
