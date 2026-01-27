@@ -28,7 +28,7 @@ Plataforma para venta de tickets de conciertos, festivales y eventos deportivos.
 ---
 
 ### TechStore *(Proyecto Full Stack)*
-E-commerce para productos de tecnología con React, Next.js y TypeScript.  
+E-commerce para venta de productos de tecnología con React, Next.js y TypeScript.  
 - Backend en Node.js con PostgreSQL  
 - UI con Tailwind CSS
 🔗 [Repositorio](https://github.com/day2555/TechStore)
