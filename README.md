@@ -21,15 +21,16 @@ Soy Desarrolladora Frontend Junior enfocada en React, Next.js, TypeScript y Tail
 ### TicketLive *(Proyecto grupal – Henry, 2025)*
 Plataforma para venta de tickets de conciertos, festivales y eventos deportivos.
 - Rol: **Frontend Developer**  
-- Funcionalidades: Creación de formularios de login/registro, carrito de compras y pasarela de pagos, despliegue de la aplicación con Vercel. 
+- Funcionalidades qué implementé: Creación de formularios de login/registro, carrito de compras y pasarela de pagos, despliegue de la aplicación con Vercel. 
 🔗 [Repositorio Frontend](https://github.com/day2555/ticketlive_front)
 🔗 [Repositorio Backend](https://github.com/day2555/ticketlive_back)
 
 ---
 
 ### TechStore *(Proyecto Full Stack)*
-E-commerce para venta de productos de tecnología con React, Next.js y TypeScript.  
-- Backend en Node.js con PostgreSQL  
+E-commerce para venta de productos de tecnología
+-Frontend: React, Next.js y TypeScript.  
+- Backend: Node.js con PostgreSQL  
 - UI con Tailwind CSS
 🔗 [Repositorio](https://github.com/day2555/TechStore)
 
