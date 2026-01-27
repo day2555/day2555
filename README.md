@@ -30,17 +30,8 @@ Plataforma para venta de tickets de conciertos, festivales y eventos deportivos.
 ### TechStore *(Proyecto Full Stack)*
 E-commerce para productos de tecnología con React, Next.js y TypeScript.  
 - Backend en Node.js con PostgreSQL  
-- UI con Tailwind CSS y Flowbite  
-🔗 [Repositorio](https://github.com/Daiana-L/Hyteria-3D-Shop-Next.js)
-
----
-
-### Aurora Studio – Solicita tu cita *(Proyecto Full Stack)*
-App web para gestión de turnos y registro de usuarios.  
-- Frontend: React + Vite  
-- Backend: Node.js + PostgreSQL  
-- Autenticación y manejo de citas  
-🔗 [Repositorio](https://github.com/Daiana-L/AuroraStudio---Solicita-tu-cita) | [Demo](https://www.youtube.com/watch?v=XJMVlnWBzQQ)  
+- UI con Tailwind CSS
+🔗 [Repositorio](https://github.com/day2555/TechStore)
 
 ---
 
