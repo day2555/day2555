@@ -53,7 +53,7 @@ App web para gestión de turnos y registro de usuarios.
 
 ## Contacto
 
-- 📧 Email: **Daiana_Celeste_Lopez@gmail.com**  
+- 📧 Email: **daiya5525@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/day-torres-6a761913b/)  
 
 ---
