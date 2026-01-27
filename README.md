@@ -10,7 +10,7 @@ Soy Desarrolladora Frontend Junior enfocada en React, Next.js, TypeScript y Tail
 ## Stack Tecnológico
 
 - **Frontend:** React, Next.js, Vite, Tailwind CSS  
-- **Backend:** Node.js, PostgreSQL  
+- **Backend:** Node.js, PostgreSQL, MongoDB  
 - **Herramientas:** Git, GitHub, Vercel, Figma  
 - **Lenguajes:** JavaScript, TypeScript  
 
