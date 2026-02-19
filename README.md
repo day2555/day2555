@@ -28,7 +28,9 @@ Key features:
 
 My role: **Frontend Developer**  
 I was responsible for developing the registration and login forms, building the shopping cart logic, managing the redirection to the payment gateway, and handling the final frontend deployment. 
+
 🔗 [Frontend Repository](https://github.com/day2555/ticketlive_front)
+
 🔗 [Backend Repository](https://github.com/day2555/ticketlive_back)
 
 ---
@@ -38,6 +40,7 @@ E-commerce para venta de productos de tecnología
 - Backend: Node.js con PostgreSQL
 - Frontend: React, Next.js y TypeScript. 
 - UI con Tailwind CSS
+
 🔗 [Repository](https://github.com/day2555/TechStore)
 
 ---
