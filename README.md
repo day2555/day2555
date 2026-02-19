@@ -62,4 +62,4 @@ Key features:
 
 ---
 
-Thanks for stopping by! I’m looking for my next challenge as a Frontend Developer. Let’s connect!
+Thanks for stopping by! I'm looking for my next challenge as a Frontend Developer. Let's connect!
