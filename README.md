@@ -9,7 +9,7 @@ I am a Junior Frontend Developer focused on React, Next.js, TypeScript, and Tail
 
 ## Tech Stack
 
-- **Frontend:** React, Next.js, Vite, Tailwind CSS  
+- **Frontend:** React, Next.js, Tailwind CSS  
 - **Backend:** Node.js, PostgreSQL, MongoDB  
 - **Tools:** Git, GitHub, Vercel, Figma  
 - **Languages:** JavaScript, TypeScript  
