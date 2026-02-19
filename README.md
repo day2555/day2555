@@ -1,29 +1,33 @@
-# Hola, soy Day Torres!
+# Hi, I'm Day Torres!
 
 ### Frontend Developer | React · Next.js · JavaScript · TypeScript
-📍 Ciudad de México, México  
+📍 Mexico City, Mexico  
 
-Soy Desarrolladora Frontend Junior enfocada en React, Next.js, TypeScript y TailwindCSS, con experiencia en bases de datos (PostgreSQL, MongoDB), integración de APIs REST y desarrollo de interfaces responsivas, funcionales, intuitivas y centradas en la experiencia del usuario. 
+I am a Junior Frontend Developer focused on React, Next.js, TypeScript, and Tailwind CSS, with experience in databases (PostgreSQL, MongoDB), REST API integration, and the development of responsive, functional, and intuitive interfaces centered on user experience (UX).
 
 ---
 
-## Stack Tecnológico
+## Tech Stack
 
 - **Frontend:** React, Next.js, Vite, Tailwind CSS  
 - **Backend:** Node.js, PostgreSQL, MongoDB  
-- **Herramientas:** Git, GitHub, Vercel, Figma  
-- **Lenguajes:** JavaScript, TypeScript  
+- **Tools:** Git, GitHub, Vercel, Figma  
+- **Languages:** JavaScript, TypeScript  
 
 ---
 
-## Proyectos Destacados
+## Featured Projects
 
-### TicketLive *(Proyecto grupal – Henry, 2025)*
-Plataforma para venta de tickets de conciertos, festivales y eventos deportivos.
-- Rol: **Frontend Developer**  
-- Funcionalidades qué implementé: Creación de formularios de login/registro, carrito de compras y pasarela de pagos, despliegue de la aplicación con Vercel. 
-🔗 [Repositorio Frontend](https://github.com/day2555/ticketlive_front)
-🔗 [Repositorio Backend](https://github.com/day2555/ticketlive_back)
+### TicketLive *(Full Stack Web Development Project (SPA) – Henry, 2025)*
+I collaborated with a cross-functional team of Frontend and Backend developers to build a ticketing platform for concerts, festivals, and sporting events. 
+Key features: 
+-User Experience: Real-time chatbot, user profiles, "favorites" section, and event details with integrated maps/location.
+-Management & Loyalty: Admin dashboard, coupon and promotion system, and a customer testimonial section.
+-Transactions: Seamless shopping cart functionality and a secure payment gateway integration.
+My role: **Frontend Developer**  
+I was responsible for developing the registration and login forms, building the shopping cart logic, managing the redirection to the payment gateway, and handling the final frontend deployment. 
+🔗 [Frontend Repository](https://github.com/day2555/ticketlive_front)
+🔗 [Backend Repository](https://github.com/day2555/ticketlive_back)
 
 ---
 
@@ -32,7 +36,7 @@ E-commerce para venta de productos de tecnología
 - Backend: Node.js con PostgreSQL
 - Frontend: React, Next.js y TypeScript. 
 - UI con Tailwind CSS
-🔗 [Repositorio](https://github.com/day2555/TechStore)
+🔗 [Repository](https://github.com/day2555/TechStore)
 
 ---
 
