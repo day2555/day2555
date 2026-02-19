@@ -22,7 +22,7 @@ I am a Junior Frontend Developer focused on React, Next.js, TypeScript, and Tail
 I collaborated with a cross-functional team of Frontend and Backend developers to build a ticketing platform for concerts, festivals, and sporting events. 
 
 Key features: 
-- User Experience: Real-time chatbot, user profiles, "favorites" section, and event details with integrated maps/location.
+- User Experience: Chatbot, user profiles, "favorites" section, and event details with integrated maps/location.
 - Management & Loyalty: Admin dashboard, coupon and promotion system, and a customer testimonial section.
 - Transactions: Seamless shopping cart functionality and a secure payment gateway integration.
 - Deployment: Successful deployment of the application.
