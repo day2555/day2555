@@ -40,9 +40,9 @@ I was responsible for developing the registration and login forms, building the 
 This individual project involved building a full frontend-focused ecommerce platform. The goal was to develop a professional space where users could explore and purchase products through an intuitive, user-friendly interface with a clean and minimalist design.
 
 Key features:
--User Authentication: Secure registration and login forms.
--Product Management: Interactive dashboard and product listing.
--Shopping Experience: Functional shopping cart and seamless redirection to a payment gateway.
+- User Authentication: Secure registration and login forms.
+- Product Management: Interactive dashboard and product listing.
+- Shopping Experience: Functional shopping cart and seamless redirection to a payment gateway.
 
 🔗 [Repository](https://github.com/day2555/TechStore)
 
@@ -50,7 +50,7 @@ Key features:
 
 ## Education
 
-- **Henry – Bootcamp Full Stack Web Developer (2025-2026)**  
+- **Henry Bootcamp –  Full Stack Web Developer (2025-2026)**  
 800+ hours of intensive coding in JavaScript, React, Node.js, and PostgreSQL, following Agile methodologies (SCRUM).
 
 ---
